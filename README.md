@@ -89,3 +89,7 @@ This project is licensed under the **MIT License**. See the LICENSE file for det
 **Fitness Tracker App** is here to help you get fit, stay motivated, and dominate your fitness journey. Whether you’re lifting weights, running miles, or just staying active, this app has got your back.
 
 🚀 **Get Started Today & Transform Your Fitness Journey!** 💪
+
+
+
+--Ayush Adk--
